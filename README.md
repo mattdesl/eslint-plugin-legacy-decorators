@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Does not work as expected. Just ignore this.
+
 # eslint-plugin-legacy-decorators
 
 Tiny plugin to add `{ legacyDecorators: true }` to eslint parser options. This is particularly useful with [standard](https://github.com/standard).
