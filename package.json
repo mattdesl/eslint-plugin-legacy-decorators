@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-legacy-decorators",
+  "version": "1.0.0",
+  "description": "Adds legacy decorator syntax",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "legacy",
+    "decorator",
+    "es6",
+    "es7",
+    "plugin",
+    "eslint",
+    "standard",
+    "semistandard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/eslint-plugin-legacy-decorators.git"
+  },
+  "homepage": "https://github.com/mattdesl/eslint-plugin-legacy-decorators",
+  "bugs": {
+    "url": "https://github.com/mattdesl/eslint-plugin-legacy-decorators/issues"
+  }
+}
